@@ -5,6 +5,8 @@ Os dados foram utilizados como fonte para o dashboard de despesas pessoais desen
 
 ## 📁 Arquivo: `despesas_2022_2024_etl.csv`
 
+![Print do CSV](https://raw.githubusercontent.com/carvalhodatadev/despesas-Power-Bi/main/02%20%E2%80%93%20Dados/Screnshotcsv.PNG)
+
 ### Estrutura das Colunas
 
 | Coluna | Descrição | Exemplo |
