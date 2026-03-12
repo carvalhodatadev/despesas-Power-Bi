@@ -6,16 +6,15 @@ Esta pasta contém o arquivo do **Power BI Desktop** (.pbix) com o dashboard com
 
 ### 🖼️ Prévia das Páginas
 
-![Página 01 – Home] https://github.com/carvalhodatadev/despesas-Power-Bi/blob/main/03_powerbi/screnshot01.PNG
-![Página 02 – Análise por Categoria](https://raw.githubusercontent.com/seu-usuario/despesas-Power-Bi/main/03_dashboard/02_categoria.png)
+![Página 01 – Home](https://raw.githubusercontent.com/carvalhodatadev/despesas-Power-Bi/main/03_powerbi/screnshot01.PNG)
 
-![Página 03 – Análise Temporal](https://raw.githubusercontent.com/seu-usuario/despesas-Power-Bi/main/03_dashboard/03_temporal.png)
+![Página 02 – Análise por Categoria](https://raw.githubusercontent.com/carvalhodatadev/despesas-Power-Bi/main/03_powerbi/screnshot02.PNG)
 
-![Página 04 – Formas de Pagamento](https://raw.githubusercontent.com/seu-usuario/despesas-Power-Bi/main/03_dashboard/04_pagamento.png)
+![Página 03 – Análise Temporal](https://raw.githubusercontent.com/carvalhodatadev/despesas-Power-Bi/main/03_powerbi/screnshot03.PNG)
 
-![Página 05 – Detalhamento](https://raw.githubusercontent.com/seu-usuario/despesas-Power-Bi/main/03_dashboard/05_detalhamento.png)
+![Página 04 – Formas de Pagamento](https://raw.githubusercontent.com/carvalhodatadev/despesas-Power-Bi/main/03_powerbi/screnshot04.PNG)
 
-*(Substitua os links pelos links raw das suas imagens após fazer o upload para esta mesma pasta.)*
+![Página 05 – Detalhamento](https://raw.githubusercontent.com/carvalhodatadev/despesas-Power-Bi/main/03_powerbi/screnshot05.PNG)
 
 ## ✅ Pré‑requisitos
 
