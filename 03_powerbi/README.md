@@ -6,8 +6,7 @@ Esta pasta contém o arquivo do **Power BI Desktop** (.pbix) com o dashboard com
 
 ### 🖼️ Prévia das Páginas
 
-![Página 01 – Home](https://raw.githubusercontent.com/seu-usuario/despesas-Power-Bi/main/03_dashboard/01_home.png)
-
+![Página 01 – Home] https://github.com/carvalhodatadev/despesas-Power-Bi/blob/main/03_powerbi/screnshot01.PNG
 ![Página 02 – Análise por Categoria](https://raw.githubusercontent.com/seu-usuario/despesas-Power-Bi/main/03_dashboard/02_categoria.png)
 
 ![Página 03 – Análise Temporal](https://raw.githubusercontent.com/seu-usuario/despesas-Power-Bi/main/03_dashboard/03_temporal.png)
